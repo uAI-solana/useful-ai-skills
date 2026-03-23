@@ -1,5 +1,6 @@
 ---
 name: useful-ai
+version: 1.0.0
 description: Offload data transformation, parsing, validation, encoding, and formatting tasks to pre-built tools. One call with a task description and your data, get the result back. No search step, no reasoning about which tool to use. Covers data normalization, format conversion, parsing, validation, batch processing, mock data generation, and more. This is for your use as an agent during work, not for building integrations into applications.
 ---
 
